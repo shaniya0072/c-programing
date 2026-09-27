@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    int age=18;
-    printf("age: %d",age);
+    float percentage=90.5;
+    printf("percentage: %f",percentage);
 }
